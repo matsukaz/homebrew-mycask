@@ -1,7 +1,7 @@
 class Freeplane < Cask
-  url 'https://downloads.sourceforge.net/sourceforge/freeplane/freeplane_app-1.3.11.dmg'
+  url 'http://jaist.dl.sourceforge.net/project/freeplane/freeplane%20stable/freeplane_app-1.3.15.dmg'
   homepage 'http://freeplane.sourceforge.net/'
-  version '1.3.11'
-  sha256 '336d4785cadcdb049453c9fcf7d80b0fad21f74d9b96132a74039e4cd5897671'
+  version '1.3.15'
+  sha256 '0a684fa354fe39051cc12af91b78d0acb0eb7279d6bb3fe4da21aba6d7b7de1d'
   link 'Freeplane.app'
 end
